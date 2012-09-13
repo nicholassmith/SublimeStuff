@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+switch (${1:key}) {
+	case ${2:case1}:
+		break;
+	case ${3:case2}:
+		break;
+	default:
+		break;
+}
+]]></content>
+	<tabTrigger>switchgen</tabTrigger>
+</snippet>
