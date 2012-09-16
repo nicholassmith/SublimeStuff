@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+case ${1:case}:
+	break;
+]]></content>
+	<tabTrigger>inscase</tabTrigger>
+</snippet>
